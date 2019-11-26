@@ -11,12 +11,7 @@
     <title>Hello, world!</title>
   </head>
   <body>
-   <?php 
-
-echo "hello world day 1";
-echo "hello world day 2";
-
-?>
+   <h1>Hello, world!</h1>
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
